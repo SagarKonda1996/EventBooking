@@ -1,2 +1,0 @@
-# EventBooking
-Created with CodeSandbox
